@@ -10,7 +10,7 @@ We love pull requests. Here's a quick guide:
    a test!
 4. Make the test pass.
 5. Make sure your changes adhere to the
-   [thoughtbot Style Guide](https://github.com/thoughtbot/guides/tree/master/style)
+   [thoughtbot Style Guide](https://github.com/thoughtbot/guides/tree/main/style)
 6. Push to your fork and submit a pull request.
 7. At this point you're waiting on us. We like to at least comment on, if not
    accept, pull requests within three business days (and, typically, one business

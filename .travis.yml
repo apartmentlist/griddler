@@ -8,13 +8,13 @@ env:
   - "RAILS_BRANCH=4-1-stable"
   - "RAILS_BRANCH=4-2-stable"
   - "RAILS_BRANCH=5-0-stable"
-  - "RAILS_BRANCH=master"
+  - "RAILS_BRANCH=main"
 branches:
   only:
-    - master
+    - main
 matrix:
   allow_failures:
-    - env: "RAILS_BRANCH=master"
+    - env: "RAILS_BRANCH=main"
 notifications:
   email: false
 sudo: false
